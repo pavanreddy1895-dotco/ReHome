@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Refurbished Study Table",
+    "category": "Furniture",
+    "description": "Cleaned and refurbished wooden study table.",
+    "condition": "Refurbished",
+    "buyPrice": 1500,
+    "repairCost": 500,
+    "sellingPrice": 2800,
+    "status": "Available"
+  },
+  {
+    "id": "2",
+    "name": "Refurbished Laptop",
+    "category": "Electronics",
+    "description": "Tested and refurbished laptop.",
+    "condition": "Refurbished",
+    "buyPrice": 8000,
+    "repairCost": 1500,
+    "sellingPrice": 11000,
+    "status": "Available"
+  }
+]
